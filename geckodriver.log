@@ -1,0 +1,153 @@
+1641373956761	geckodriver	INFO	Listening on 127.0.0.1:52107
+1641373959829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "-headless" "--remote-debugging-port" "52108" "-no-remote" "-profile" "C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofileWphNZc"
+*** You are running in headless mode.
+1641373960197	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofileWphNZc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52108/devtools/browser/ba03990f-25e6-4b3b-84d8-2ffedfb9f0f6
+1641373961839	Marionette	INFO	Listening on port 52113
+1641373961923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1641373979742	Marionette	INFO	Stopped listening on port 52113
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1641374425023	geckodriver	INFO	Listening on 127.0.0.1:52237
+1641374428111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "-headless" "--remote-debugging-port" "52238" "-no-remote" "-profile" "C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofilecnPJmR"
+*** You are running in headless mode.
+1641374428452	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofilecnPJmR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52238/devtools/browser/823d5a9f-6836-4ee9-812c-e1fdc98c4ee1
+1641374429778	Marionette	INFO	Listening on port 52243
+1641374430197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1641374456077	Marionette	INFO	Stopped listening on port 52243
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1641374603051	geckodriver	INFO	Listening on 127.0.0.1:52312
+1641374606095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "-headless" "--remote-debugging-port" "52313" "-no-remote" "-profile" "C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofileA3ccgh"
+*** You are running in headless mode.
+1641374606541	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofileA3ccgh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52313/devtools/browser/ba62ce5b-ba55-4db4-8ca4-343e9ae535c6
+1641374608112	Marionette	INFO	Listening on port 52318
+1641374608166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1641374622648	geckodriver	INFO	Listening on 127.0.0.1:52368
+1641374625731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "-headless" "--remote-debugging-port" "52369" "-no-remote" "-profile" "C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofileF7sjeB"
+*** You are running in headless mode.
+1641374626077	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofileF7sjeB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52369/devtools/browser/dec2eea9-ee10-4d28-887e-efba472bca60
+1641374627469	Marionette	INFO	Listening on port 52374
+1641374627794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1641374817088	geckodriver	INFO	Listening on 127.0.0.1:52504
+1641374820180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "-headless" "--remote-debugging-port" "52505" "-no-remote" "-profile" "C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofileYwZ4Mm"
+*** You are running in headless mode.
+1641374820508	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofileYwZ4Mm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52505/devtools/browser/9f51be56-1fc0-495a-83e6-b13938c41550
+1641374821968	Marionette	INFO	Listening on port 52510
+1641374822271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1641374987661	geckodriver	INFO	Listening on 127.0.0.1:52580
+1641374990766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "-headless" "--remote-debugging-port" "52581" "-no-remote" "-profile" "C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofile39Zgbu"
+*** You are running in headless mode.
+1641374991090	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofile39Zgbu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52581/devtools/browser/38a7bc4d-ec8b-4740-bcf7-30e7d29c15b9
+1641374992581	Marionette	INFO	Listening on port 52586
+1641374992879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1641375053580	Marionette	INFO	Stopped listening on port 52586
+console.error: "Could not write session state file " (new Error("IOUtils: Shutting down and refusing additional I/O tasks", (void 0), 106)) "DOMException@resource://gre/modules/PromiseWorker.jsm:106:18\npostMessage@resource://gre/modules/PromiseWorker.jsm:342:55\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\n"
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641375611942	geckodriver	INFO	Listening on 127.0.0.1:52819
+1641375615657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "-headless" "--remote-debugging-port" "52820" "-no-remote" "-profile" "C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofileEfIlsc"
+*** You are running in headless mode.
+1641375619458	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofileEfIlsc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52820/devtools/browser/e4715ca3-e78b-4e06-bf17-ed1aefa3c516
+1641375620833	Marionette	INFO	Listening on port 52825
+1641375621058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1641375694597	geckodriver	INFO	Listening on 127.0.0.1:52879
+1641375697729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-ssl-errors=yes" "--ignore-certificate-errors" "-headless" "--remote-debugging-port" "52880" "-no-remote" "-profile" "C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofilerFLZN1"
+*** You are running in headless mode.
+1641375698270	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\solan\\AppData\\Local\\Temp\\rust_mozprofilerFLZN1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52880/devtools/browser/a9685589-b027-4dea-b71f-4d918eceafd9
+1641375699714	Marionette	INFO	Listening on port 52885
+1641375699903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cee-apac.exelatech.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1641375714528	Marionette	INFO	Stopped listening on port 52885
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
